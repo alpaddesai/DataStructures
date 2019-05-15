@@ -34,8 +34,8 @@ public:
 	~CustomerList();
 	int AddPersonToFrontofLine(const SimplePerson &, double , bool);
 	int AddPersonToBackofLine(const SimplePerson &,double , bool);
-	bool removeFromFront(SimplePerson &);
-	bool removeFromBack(SimplePerson &);
+	bool removeFromFront(SimplePerson );
+	bool removeFromBack(SimplePerson );
 	bool isEmpty() const;
 	void print() const;
 
@@ -115,7 +115,7 @@ return 0;
 //*********************************************************************
 
 template<typename SimplePerson>  // template typename nodetype
-bool CustomerList<SimplePerson>::removeFromFront( SimplePerson &dataNode)
+bool CustomerList<SimplePerson>::removeFromFront( SimplePerson dataNode)
 {
  // empty body, end list constructor
 	if( isEmpty())                       // list is empty
@@ -142,7 +142,7 @@ bool CustomerList<SimplePerson>::removeFromFront( SimplePerson &dataNode)
 //*********************************************************************
 
 template<typename SimplePerson>  // template typename nodetype
-bool CustomerList<SimplePerson>::removeFromBack( SimplePerson &dataNode)
+bool CustomerList<SimplePerson>::removeFromBack( SimplePerson dataNode)
 {
  // empty body, end list constructor
 
