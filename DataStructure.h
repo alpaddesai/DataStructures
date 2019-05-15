@@ -242,6 +242,7 @@ int CustomerList<SimplePerson>::getCustomerInformation()
 	cout<<endl;
 
 	}
+     delete currentPtr;
 
 
 	return 0;
