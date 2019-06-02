@@ -34,6 +34,7 @@ customers.removeFromFront("Alan");
 customers.print();
 
 return 0;
+
 }
 
 Output of the project:
