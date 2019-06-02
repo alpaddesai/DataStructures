@@ -8,6 +8,7 @@ The project consists of a custom linkedlist coded in C++, for a super market lin
 
 int main()
 {
+
 CustomerList <string> customers;
 
 customers.AddPersonToBackofLine("Alpa",120,1);
