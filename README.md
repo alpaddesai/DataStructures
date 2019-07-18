@@ -1,4 +1,4 @@
-# SuperMarketLine
+# Super Market Line
 SuperMarketLineRewardsMember
 
 ## Synopsis of the Project
