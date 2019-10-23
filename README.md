@@ -5,4 +5,4 @@ SuperMarketLineRewardsMember
 
 The project consists of a custom linkedlist coded in C++, for a super market line. Please reference the .cpp file for details.
 
-Confidential information is not displayed . All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. Copyright protection is in process.
+Confidential information is not displayed . All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. 
