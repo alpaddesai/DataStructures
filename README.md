@@ -1,4 +1,4 @@
-# Super Market Line
+# Data Structures
 SuperMarketLineRewardsMember
 
 ## Synopsis of the Project
