@@ -9,3 +9,5 @@ Confidential information is not displayed . All images are either custom by Alpa
 
 ## Data structures and algorithms
 ![image](DataStructures.jpg)
+
+Advanced design skills please reference: https://github.com/alpaddesai/Algorithms
