@@ -16,4 +16,4 @@ Confidential information is not displayed . All images are either custom by Alpa
 ## Interest 
 ![image](image1.jpg)
 
-Advanced design skills please reference: https://github.com/alpaddesai/Algorithms
+Advanced design skills please reference: https://github.com/alpaddesai/Algorithms ,  https://github.com/alpaddesai/QualityAssuranceProcess and https://github.com/alpaddesai/PowerandInfluentialSkills
