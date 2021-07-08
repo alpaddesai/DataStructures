@@ -14,7 +14,7 @@ Confidential information is not displayed . All images are either custom by Alpa
 ![image](DataStructuresAlgorithmsCertificate.jpg)
 
 ## C/C++
-![image](IMG_1578.JPG)
+![image](C_Cplusplus.jpg)
 
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
