@@ -13,6 +13,9 @@ Confidential information is not displayed . All images are either custom by Alpa
 ## Data structures in C++
 ![image](DataStructuresAlgorithmsCertificate.jpg)
 
+## C/C++
+![image](IMG_1578.JPG)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
