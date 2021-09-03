@@ -16,6 +16,9 @@ Confidential information is not displayed . All images are either custom by Alpa
 ## C/C++
 ![image](C_Cplusplus.jpg)
 
+## Algorithms
+![image](SimulationsPerformanceMetrics.jpg)
+
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
