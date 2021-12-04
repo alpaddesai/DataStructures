@@ -22,8 +22,4 @@ Confidential information is not displayed . All images are either custom by Alpa
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-## Interest 
-![image](image1.jpg)
-![image](image_1.png)
-
 Advanced design skills please reference: https://github.com/alpaddesai/Algorithms , https://github.com/alpaddesai/HW_SW_Integration_ProductSupport and https://github.com/alpaddesai/PowerandInfluentialSkills
