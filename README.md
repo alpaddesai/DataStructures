@@ -1,5 +1,5 @@
 # Data Structures
-SuperMarketLineRewardsMember
+Super Market Line Rewards Member
 
 ## Synopsis of the Project
 
