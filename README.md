@@ -19,9 +19,6 @@ Confidential information is not displayed . All images are either custom by Alpa
 ## Algorithms
 ![image](SimulationsPerformanceMetrics.jpg)
 
-## Exam
-![image](CFAExam.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
