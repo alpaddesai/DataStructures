@@ -24,4 +24,4 @@ Confidential information is not displayed . All images are either custom by Alpa
 
 ![image](USCopyrightCertificate.png)
 
-Advanced design skills please reference: https://github.com/alpaddesai/Algorithms , https://github.com/alpaddesai/HW_SW_Integration_ProductSupport and https://github.com/alpaddesai/PowerandInfluentialSkills
+Advanced design skills please reference: https://github.com/alpaddesai/DesignEngineering
